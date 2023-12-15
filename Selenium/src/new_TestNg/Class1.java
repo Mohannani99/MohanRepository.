@@ -7,7 +7,7 @@ public class Class1 {
 	@Test
 	public void mtd1()
 	{
-		Reporter.log("hello",true);
+		Reporter.log("helloHi",true);
 		
 	}
 
