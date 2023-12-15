@@ -14,7 +14,7 @@ public class Class3 {
 	@Test
 	public void mtd2()
 	{
-		Reporter.log("hello",true);
+		Reporter.log("hellooo",true);
 		
 	}
 	@Test
